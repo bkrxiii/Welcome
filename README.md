@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-I discovered code during the first lockdown in the UK and absolutly love it.
+I discovered code during the first lockdown in the UK and absolutely love it.
 
 My passion is for front-end web development and I am currently looking for a junior role in Wales, UK or remote.
 
