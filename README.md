@@ -1,4 +1,4 @@
-# Welcome to my GitHub
+# Welcome to my gitHub
 
 I discovered code during the first lockdown in the UK and absolutely love it.
 
