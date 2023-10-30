@@ -2,7 +2,7 @@
 
 I discovered code during the first lockdown in the UK and absolutely love it.
 
-I have a passion for coding, currently studying Applied Software Engineering at Cardiff University. Proficient in Python and Javascript.
+I have a passion for coding and am currently studying Applied Software Engineering at Cardiff University. Proficient in Python and Javascript.
 
 I am currently working as a Chatbot Conversational Designer at Admiral Insurance; designing and developing chatbots that enhance customer experience.
 
